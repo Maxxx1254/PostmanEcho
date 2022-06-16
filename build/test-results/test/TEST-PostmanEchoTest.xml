@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="PostmanEchoTest" tests="1" skipped="0" failures="1" errors="0" timestamp="2022-06-16T22:11:37" hostname="HNBA107000" time="3.663">
+<testsuite name="PostmanEchoTest" tests="1" skipped="0" failures="1" errors="0" timestamp="2022-06-16T22:16:00" hostname="HNBA107000" time="3.733">
   <properties/>
-  <testcase name="shouldReturnDemoAccounts()" classname="PostmanEchoTest" time="3.663">
-    <failure message="java.lang.AssertionError: 1 expectation failed.&#10;JSON path [0].currency doesn't match.&#10;Expected: RUB&#10;  Actual: null&#10;" type="java.lang.AssertionError">java.lang.AssertionError: 1 expectation failed.
+  <testcase name="shouldReturnDemoAccounts()" classname="PostmanEchoTest" time="3.733">
+    <failure message="java.lang.AssertionError: 1 expectation failed.&#10;JSON path [0].currency doesn't match.&#10;Expected: RUR&#10;  Actual: null&#10;" type="java.lang.AssertionError">java.lang.AssertionError: 1 expectation failed.
 JSON path [0].currency doesn't match.
-Expected: RUB
+Expected: RUR
   Actual: null
 
 	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
